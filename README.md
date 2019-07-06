@@ -1,6 +1,6 @@
 # 简介
 
-[gitbook地址](https://itxia-web-doc.gitbook.io/it-web-2019/), 任何人都可以访问
+[gitbook地址](https://itxia-web-doc.gitbook.io/it-web-2019/)任何人都可以访问
 
 [在线编辑地址](https://app.gitbook.com/@itxia-web-doc/s/it-web-2019/)仅被授权者可以访问
 
