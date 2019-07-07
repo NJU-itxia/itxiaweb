@@ -8,9 +8,10 @@
   * [寻找第5000单](journal/record/the-5000th.md)
   * [记一次老系统的404bug](journal/record/404bug.md)
 * [组内信息](journal/itxia-web/README.md)
-  * [人员信息](journal/itxia-web/people.md)
   * [web组简介](journal/itxia-web/itxia-web.md)
   * [2019工作概述](journal/itxia-web/2019-todo.md)
+  * [人员信息](journal/itxia-web/people.md)
+  * [招新](journal/itxia-web/greenhand.md)
 
 ## 项目开发历程 <a id="projects"></a>
 
@@ -39,5 +40,4 @@
 ## 互助文档 <a id="help"></a>
 
 * [喵喵喵](help/bksn.md)
-* [招新](help/greenhand.md)
 
