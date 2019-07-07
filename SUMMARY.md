@@ -39,4 +39,5 @@
 ## 互助文档 <a id="help"></a>
 
 * [喵喵喵](help/bksn.md)
+* [招新](help/greenhand.md)
 
