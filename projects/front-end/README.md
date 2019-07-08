@@ -12,9 +12,7 @@ description: 重整itxia.club的前端
 
 ## 开发手册
 
-框架：
+框架：vue.js
 
-项目地址：
-
-
+项目地址：暂未开启
 
