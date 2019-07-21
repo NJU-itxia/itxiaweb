@@ -55,7 +55,3 @@
 
 1. :+1:[Typora](https://www.typora.io/)：专用的Markdown编辑器，可以严格限制使用Github规范的Markdown，并且插入本地图片管理很方便。
 2. [VSCode](https://code.visualstudio.com/) + Markdown Preview Enhanced插件：比较贴合程序员的使用习惯。
-
-## 小尝试
-
-你可以在电脑端打开本页面，然后看右上角，选择“查看Markdown”<br />![image.png](https://cdn.nlark.com/yuque/0/2019/png/378223/1563017399837-dfe7c4b3-3fed-4a0e-9030-1e682ad59d46.png#align=left&display=inline&height=314&name=image.png&originHeight=392&originWidth=420&size=21246&status=done&width=336)<br />之后将所有内容复制粘贴到[IT侠微信公众号格式化工具](https://itxia.club/tools/mdcvt/)，预览一下~
