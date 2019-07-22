@@ -51,7 +51,7 @@ description: 安装windows和ubuntu双系统（含虚拟机）
 
 ## 方案三、Windows Subsystem for Linux（WSL）
 
-Windows10的功能，需要手动开启。开启方法见(Windows Subsystem for Linux Installation Guide for Windows 10)[https://docs.microsoft.com/en-us/windows/wsl/install-win10]
+Windows10的功能，需要手动开启。开启方法见[Windows Subsystem for Linux Installation Guide for Windows 10](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 
 ### 优点
 
