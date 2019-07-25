@@ -35,7 +35,6 @@ description: 记录工作日志，项目进展，技术传承等
   * [现存问题](projects/bot/bugs.md)
 * [前端开发](projects/front-end/)
   * [需求文档](projects/front-end/requirement.md)
-  * [现存问题](projects/front-end/bugs.md)
 * [后端API开发](projects/back-end-api/)
   * [需求文档](projects/back-end-api/requirement.md)
 * [小程序开发](projects/wechat/)
