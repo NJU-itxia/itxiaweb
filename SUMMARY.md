@@ -24,7 +24,6 @@
 * [前端开发](projects/front-end/README.md)
   * [需求文档](projects/front-end/requirement.md)
   * [现存问题](projects/front-end/bugs.md)
-  * [学习笔记-第一天](projects/front-end/note1.md)
 * [后端API开发](projects/back-end-api/README.md)
   * [需求文档](projects/back-end-api/requirement.md)
   * [现存问题](projects/back-end-api/bugs.md)
