@@ -38,6 +38,7 @@
 
 * [安装双系统](technique/double-systems.md)
 * [配置和使用gitbook](technique/gitbook.md)
+* [一些好玩的](technique/somethingfun.md)
 
 ## 互助文档
 
