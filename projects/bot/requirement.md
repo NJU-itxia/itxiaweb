@@ -84,7 +84,7 @@
 
 命令：shop
 
-后台数据库：https://www.yuque.com/itxia/xqa9nn（需要权限）
+后台数据库（需要权限）：https://www.yuque.com/itxia/xqa9nn
 
 维护：魏世桓，张远铭，谢天奇，尹博
 
