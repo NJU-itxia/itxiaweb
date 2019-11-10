@@ -33,6 +33,8 @@
 * [其它辅助工具开发](projects/else/README.md)
   * [IT侠图床](projects/else/picturebed.md)
   * [MD转推送小工具](projects/else/md-to-wechat.md)
+* [服务器管理/运维](projects/server/)
+  * [新腾讯云](projects/server/tx.md)
 
 ## 技术传承
 
