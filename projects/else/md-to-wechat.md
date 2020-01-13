@@ -67,5 +67,13 @@
 
 ### 20190911更新
 
-经过调研和实践，建议将微信格式化工具改为使用以下项目：
+（备选）经过调研和实践，建议将微信格式化工具改为使用以下项目：
 https://github.com/lyricat/wechat-format
+
+### 20200101更新
+
+为主题添加标准格式“标准模式”，使得主题模式更加适用于教程推送。
+
+mdcvt的主题修改方式：
+1. `tools\mdcvt\pageThemes\*.css`为主题文件，里面采用CSS选择器的方式进行设置。
+2. 文件`tools\mdcvt\js\index.js`中的`PageTheme.prototype.bindEvt`可以修改mdcvt的选择条目，从而添加主题
