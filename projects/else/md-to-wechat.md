@@ -76,5 +76,13 @@ https://github.com/lyricat/wechat-format
 
 mdcvt的主题修改方式：
 
-1. `tools\mdcvt\pageThemes\*.css`为主题文件，里面采用CSS选择器的方式进行设置。
-2. 文件`tools\mdcvt\js\index.js`中的`PageTheme.prototype.bindEvt`可以修改mdcvt的选择条目，从而添加主题
+1. `tools/mdcvt/pageThemes/*.css`为主题文件，里面采用CSS选择器的方式进行设置。
+2. 文件`tools/mdcvt/js/index.js`中的`PageTheme.prototype.bindEvt`可以修改mdcvt的选择条目，从而添加主题
+
+### 20200120更新
+
++ 添加了多个美化主题
++ 丰富了链接引用的文末自动处理格式
++ 与推送进行适配，解决了几个小bug
+
+实际改造过程中发现，采用yzh在`tools/mdcvt/index.html`里直接添加修改的方式更加简单粗暴容易维护，修改`tools/mdcvt/js/index.js`很容易出错。
