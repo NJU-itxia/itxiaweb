@@ -6,9 +6,9 @@ description: 记录工作日志，项目进展，技术传承等
 
 ## 简介
 
-这份文档托管在 gitbook.com 上, 已绑定到[github 项目](https://github.com/NJU-itxia/itxia-web-doc), web 组内人员可以通过 github 进行编辑, 项目仓库中的文件会自动同步到 gitbook.
+这份文档托管在 gitbook.com 上, 已绑定到[github 项目](https://github.com/NJU-itxia/itxiaweb), web 组内人员可以通过 github 进行编辑, 项目仓库中的文件会自动同步到 gitbook.
 
-其它任何人都可以通过[此地址](https://itxia-web-doc.gitbook.io/it-web-2019/)访问该文档.
+其它任何人都可以通过[此地址](https://njuitman.gitbook.io/it-web/)访问该文档.
 
 ## 目录结构
 
