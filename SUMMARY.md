@@ -13,6 +13,8 @@
     - [2019 工作概述](journal/2019/itxia-web/2019-todo.md)
     - [人员信息](journal/2019/itxia-web/people.md)
     - [招新](journal/2019/itxia-web/greenhand.md)
+- [2020 年](journal/2020/readme.md)
+  - [工作目标](journal/2020/target.md)
 
 ## 项目开发历程
 
