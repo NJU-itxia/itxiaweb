@@ -4,16 +4,15 @@
 
 ## web 组工作日志
 
-### 2019
-
-- [工作记录](journal/record/README.md)
-  - [寻找第 5000 单](journal/record/the-5000th.md)
-  - [记一次老系统的 404bug](journal/record/404bug.md)
-- [组内信息](journal/itxia-web/README.md)
-  - [web 组简介](journal/itxia-web/itxia-web.md)
-  - [2019 工作概述](journal/itxia-web/2019-todo.md)
-  - [人员信息](journal/itxia-web/people.md)
-  - [招新](journal/itxia-web/greenhand.md)
+- [2019]()
+  - [工作记录](journal/record/README.md)
+    - [寻找第 5000 单](journal/record/the-5000th.md)
+    - [记一次老系统的 404bug](journal/record/404bug.md)
+  - [组内信息](journal/itxia-web/README.md)
+    - [web 组简介](journal/itxia-web/itxia-web.md)
+    - [2019 工作概述](journal/itxia-web/2019-todo.md)
+    - [人员信息](journal/itxia-web/people.md)
+    - [招新](journal/itxia-web/greenhand.md)
 
 ## 项目开发历程
 
