@@ -4,7 +4,7 @@
 
 ## web 组工作日志
 
-- [2019]()
+- [2019 年]()
   - [工作记录](journal/record/README.md)
     - [寻找第 5000 单](journal/record/the-5000th.md)
     - [记一次老系统的 404bug](journal/record/404bug.md)
