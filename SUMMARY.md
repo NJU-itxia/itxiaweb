@@ -17,6 +17,9 @@
   - [工作目标](journal/2021/target.md)
   - [画的饼 🫓]()
     - [问卷系统](/journal/2021/cakes/questionnaire.md)
+  - [内训流程]()
+    - [web 基础和实用工具](/journal/2021/train/first.md)
+    - [IT 侠 Bot]()
 
 ## 项目开发历程
 
