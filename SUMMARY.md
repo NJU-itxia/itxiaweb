@@ -14,12 +14,21 @@
     - [人员信息](journal/2019/itxia-web/people.md)
     - [招新](journal/2019/itxia-web/greenhand.md)
 - [2021 年](journal/2021/readme.md)
+
   - [工作目标](journal/2021/target.md)
   - [画的饼 🫓]()
     - [问卷系统](/journal/2021/cakes/questionnaire.md)
   - [内训流程]()
-    - [web 基础和实用工具](/journal/2021/train/first.md)
-    - [IT 侠 Bot]()
+    - [m1]()
+      - [web 基础和实用工具](/journal/2021/train/first.md)
+      - [IT 侠业务]()
+    - [m2]()
+      - [HTTP、DNS、数据库]()
+      - [JS 专题]()
+      - [React 专题]()
+      - [IT 侠 bot 专题]()
+      - [预约系统专题]()
+      - [后台系统专题]()
 
 ## 项目开发历程
 
