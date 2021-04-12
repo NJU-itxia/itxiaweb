@@ -18,6 +18,7 @@
   - [工作目标](journal/2021/target.md)
   - [画的饼 🫓]()
     - [问卷系统](/journal/2021/cakes/questionnaire.md)
+    - [主页优化建议](/journal/2021/cakes/moretips.md)
   - [内训]()
     - [内容]()
       - [web 基础、实用工具和 IT 侠业务](/journal/2021/train/first.md)
